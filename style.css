@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.body-bg {
+    background: white;
+    font-family: PT-sans, sans-serif;
+}
+
+p {
+    color: black;
+    margin-left: 20px;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+}
+
+.hobbies{
+ color: black;
+}
+
+.sjcs{
+  margin: 13px;
+  padding: 3px;
+  width:50%;
+  float: left;
+}
+
+.dog-img {
+	float: middle;
+}
+
+.header{
+  margin-left: 100px;
+}
+
